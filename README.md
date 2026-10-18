@@ -1,21 +1,31 @@
-Hi 👋, I'm Ahmed<br>
-Frontend Developer | React & JavaScript Enthusiast
+## Hi, I'm Ahmed 👋
 
+**React Native developer** at Triple Solutions, building production iOS and Android apps with Expo and TypeScript.<br>
+Most of what I ship is bilingual Arabic/English and RTL-first, with payments, subscriptions and real-time features.
 
-💫 About Me:
-I’m a passionate Frontend Developer with strong skills in React, Next.js, HTML, CSS, and JavaScript.<br>I love building modern, responsive, and user-friendly web applications, focusing on UI/UX to deliver smooth experiences.<br>Always eager to learn new technologies, collaborate on innovative projects, and contribute to open-source.
+📍 Cairo, Egypt · 💼 Open to React Native roles (remote or Cairo)
 
+### 📱 Apps I've shipped
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmed Abd El-mottalie ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a17_k12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed abdelmottalie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelmottale3@gmail.com) 
+| App | What it is | Links |
+|---|---|---|
+| **ThrowBack** | Private family photo & video albums: RevenueCat subscriptions, Moyasar checkout, Pusher real-time, biometric lock | [Google Play](https://play.google.com/store/apps/details?id=com.venus.throwback) · [App Store](https://apps.apple.com/us/app/throwback-%D8%AB%D8%B1%D9%88%D8%A8%D8%A7%D9%83/id6762511229) |
+| **Asema** | Marketplace with Aramex & RedBox logistics, Tabby / Tamara / Paymob payments, loyalty rewards | [App Store](https://apps.apple.com/us/app/asima-%D8%A7%D8%B3%D9%8A%D9%85%D8%A7/id6761766764) |
+| **Earno** | Two-sided real-estate investment marketplace with in-app chat and Moyasar payments | [Google Play](https://play.google.com/store/apps/details?id=com.afsc.earno) · [App Store](https://apps.apple.com/us/app/earno-%D8%A7%D9%8A%D8%B1%D9%86%D9%88/id6761137437) |
+| **PureSite** | Car-care booking with live order tracking and push notifications | [Google Play](https://play.google.com/store/apps/details?id=com.afsc.PureSite) · [App Store](https://apps.apple.com/us/app/puresite-%D8%A8%D9%8A%D9%88%D8%B1-%D8%B3%D8%A7%D9%8A%D8%AA/id6761421822) |
+| **Sanaiee** | Services app plus its Next.js web platform | [Google Play](https://play.google.com/store/apps/details?id=com.sanaieeafaq.sanaiee) |
+| **Al Salam** | Bilingual Next.js 15 B2B storefront with an RFQ workflow | [Live site](https://alsalam-sy.com/en) |
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ahmed-abdelmottal3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdelmottal3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Client code is private, so the pinned repos below are personal and practice projects.
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmed-abdelmottal3&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠 Tech
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Mobile:** React Native · Expo · Expo Router · EAS Build · Reanimated · NativeWind
+- **Core:** TypeScript · React · TanStack Query · Zustand · Redux · React Hook Form · Zod
+- **Integrations:** RevenueCat · Pusher · Firebase · Google Maps · Moyasar · Paymob · Tabby · Tamara
+- **Web:** Next.js · Vite · Tailwind CSS · Playwright
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelmottalie-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmottalie/)
+[![Email](https://img.shields.io/badge/Email-abdelmottale3%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdelmottale3@gmail.com)
